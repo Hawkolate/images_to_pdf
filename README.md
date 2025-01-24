@@ -4,3 +4,8 @@ Some code, mostly taken from Stackoverflow and the Pillow documentation. Made a 
 [Pillow](https://pillow.readthedocs.io/en/stable/index.html)
 
 [stackoverflow](https://stackoverflow.com/questions/27327513/create-pdf-from-a-list-of-images#47283224)
+
+
+## Usage
+1. Create a file named "file_path.txt" containing the directory with images.
+2. Output file will be named "book.pdf".
